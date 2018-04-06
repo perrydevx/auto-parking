@@ -1,8 +1,8 @@
 # auto-parking
 
 To run jar file in command:<br>
-Download auto-parking.jar<br>
-navigate to folder where jar file is located<br>
+-Download auto-parking.jar<br>
+-Navigate to folder where jar file is located<br>
 ```
 >java -jar auto-parking.jar
 ```
